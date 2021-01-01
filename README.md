@@ -1,4 +1,4 @@
-# DataStore_App
+# Basic-CRD-App
 
 It is a file-based key-value data store system that supports the basic CRD (create, read, and delete)
 operations. <br>
